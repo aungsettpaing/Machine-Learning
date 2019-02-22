@@ -11,7 +11,7 @@ Multinomial Naive Bayes method is used as an classifier in this project with the
 
 # Purpose
 
-The main purpose of this project is that the very <b>entry<b> level students like me can test their own classification systems with or without help from this project.
+The main purpose of this project is that the very <b>entry</b> level students like me can test their own classification systems with or without help from this project.
 
 # Usage
 
