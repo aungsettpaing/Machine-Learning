@@ -11,13 +11,13 @@ Multinomial Naive Bayes method is used as an classifier in this project with the
 
 # Purpose
 
-The main purpose of this project is that the very entry level students like me can test their own classification systems with or without help from this project.
+The main purpose of this project is that the very <b>entry<b> level students like me can test their own classification systems with or without help from this project.
 
 # Usage
 
-It is only required to run the file ["SMNC Model Usage.ipynb"](https://github.com/aungsettpaing/Machine-Learning/blob/master/Simple%20Myanmar%20News%20Classifier/SMNC%20Model%20Usage.ipynb) provided you want to test the model with your own testing news.
+It is only required to run the file ["SMNC Model Usage"](https://github.com/aungsettpaing/Machine-Learning/blob/master/Simple%20Myanmar%20News%20Classifier/SMNC%20Model%20Usage.ipynb) provided you want to test the model with your own testing news.
 
-If you want to know how the model is constructed, then please check this file ["SMNC Model Construction.ipynb"](https://github.com/aungsettpaing/Machine-Learning/blob/master/Simple%20Myanmar%20News%20Classifier/SMNC%20Model%20Construction.ipynb).
+If you want to know how the model is constructed, then please check this file ["SMNC Model Construction"](https://github.com/aungsettpaing/Machine-Learning/blob/master/Simple%20Myanmar%20News%20Classifier/SMNC%20Model%20Construction.ipynb) which can take <b>some minutes</b> if you run this file.
 
 # Acknowledgement
 
